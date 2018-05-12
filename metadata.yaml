@@ -1,0 +1,27 @@
+_repo: The-Radio-Boys-with-the-Revenue-Guards_28735
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Breckenridge, Gerald
+    alias: Breitgam, Gerald H.
+    deathdate: 1964
+    gutenberg_agent_id: '5443'
+    url: http://www.gutenberg.org/2009/agents/5443
+description: ''
+gutenberg_issued: '2009-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smuggling -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Radio -- Juvenile fiction'
+title: The Radio Boys with the Revenue Guards
+url: http://www.gutenberg.org/ebooks/28735
